@@ -1,3 +1,3 @@
 # ListaExercicioLPOO-java
 
-Aqui tem apenas os arquivos .java com o codigo apenas
+Aqui estao as listas e os exercicios em java.
